@@ -176,4 +176,6 @@ int main()
 
     ql.menuKH();
     ql.inKH();
+
+    return 0;
 }
